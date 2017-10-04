@@ -9,7 +9,7 @@ tags: [Angular, Angular-CLI, Github Pages]
 1. Create a new Angular Application
 
     ```Shell
-    ng new \{\{AppName\}\}
+    ng new <AppName>
     ```
 
 2. Create a new GitHub Repository https://github.com/new
