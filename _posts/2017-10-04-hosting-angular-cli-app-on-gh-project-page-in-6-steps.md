@@ -49,7 +49,7 @@ tags: [Angular, Angular-CLI, Github Pages]
 
 ### Cons
 * No database
-* No refresh or deep linking - you might be able make something work using the patern followed here but it wont be easy https://github.com/jekyll/jekyll-redirect-from
+* No refresh or deep linking - you might be able make something work using the pattern followed here but it wont be easy https://github.com/jekyll/jekyll-redirect-from
 
 ### Considerations
 * API communication must be done over https, so your api server must be using a ssl certificate and running https.
