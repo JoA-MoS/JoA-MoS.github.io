@@ -10,7 +10,7 @@ author: JoA-MoS
 4. Build your application to a specific folder
 
     ```
-    ng build --base-href /\{\{RepoName\}\}/ --output-path ./docs  
+    ng build --base-href /{{RepoName}}/ --output-path ./docs  
     ```
     
     _You can add --prod as well to build the prod version of your code_
