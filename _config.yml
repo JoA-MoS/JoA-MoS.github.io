@@ -62,3 +62,4 @@ collections:
   posts:
     permalink: /blog/:year/:month/:day/:title/
     output: true
+ga_token: UA-17808232-1
