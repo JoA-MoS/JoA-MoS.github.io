@@ -16,13 +16,13 @@ tags: [Angular, Angular-CLI, Github Pages]
 3. Add a remote to your local git of your angular application you created in step 1.
 
     ```Shell
-    git remote add origin https://github.com/{{username}}/{{RepoName}}.git
+    git remote add origin https://github.com/<username>/<RepoName>.git
     ```
 
 4. Build your application to a specific folder
 
     ```Shell
-    ng build --base-href /{{RepoName}}/ --output-path ./docs  
+    ng build --base-href /<RepoName>/ --output-path ./docs  
     ```
     
     _You can add --prod as well to build the prod version of your code_
@@ -34,7 +34,7 @@ tags: [Angular, Angular-CLI, Github Pages]
     git commit -m 'Initial Commit'
     git push -u origin master
     ```
-6. Update github settings https://github.com/\{\{username\}\}/\{\{RepoName\}\}/settings/ and choose master branch docs folder. Now go to https://\{\{username\}\}.github.io/\{\{RepoName\}\}/. _You wont be able to select docs folder until the docs folder exists._
+6. Update github settings https://github.com/<username>/<RepoName>/settings/ and choose master branch docs folder. Now go to https://<username>.github.io/<RepoName>/. _You wont be able to select docs folder until the docs folder exists._
 
 7. To publish your page you will need to push you application again. Updating your repo will tell github to kick off its processes
 
