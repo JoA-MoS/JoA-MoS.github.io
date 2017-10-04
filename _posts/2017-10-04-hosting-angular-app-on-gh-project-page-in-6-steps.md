@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hosting Angular app on github project page in 6 steps"
+title:  "Hosting an Angular app on github project page in 6 steps"
 author: JoA-MoS
 ---
 
@@ -10,13 +10,13 @@ author: JoA-MoS
 4. Build your application to a specific folder
 
     ```
-    ng build --base-href /{{RepoName}}/ --output-path ./docs  
+    ng build --base-href /\{\{RepoName\}\}/ --output-path ./docs  
     ```
     
     _You can add --prod as well to build the prod version of your code_
 
 5. Git commit and Push your code to github
-6. Update github settings https://github.com/{{username}}/{{RepoName}}/settings/ and choose master branch docs folder. Now go to https://{{username}}.github.io/{{RepoName}}/
+6. Update github settings https://github.com/\{\{username\}\}/\{\{RepoName\}\}/settings/ and choose master branch docs folder. Now go to https://\{\{username\}\}.github.io/\{\{RepoName\}\}/
 
 _Note: You may have to push again to get the page to publish_
 
