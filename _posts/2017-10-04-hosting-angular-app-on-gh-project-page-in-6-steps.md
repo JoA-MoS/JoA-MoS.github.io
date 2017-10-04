@@ -4,15 +4,15 @@ title:  "Hosting Angular app on github project page in 6 steps"
 author: JoA-MoS
 ---
 
-# Hosting Angular app on github project pages in 6 steps
-
 1. Create a new Angular Application
 2. Create a new GitHub Repository
 3. Add a remote to your local git of your angular application
 4. Build your application to a specific folder
+
     ```
     ng build --base-href /{{RepoName}}/ --output-path ./docs  
     ```
+    
     _You can add --prod as well to build the prod version of your code_
 
 5. Git commit and Push your code to github
