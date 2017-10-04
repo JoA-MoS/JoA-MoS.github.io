@@ -42,7 +42,16 @@ defaults:
     type: docs
   values:
     layout: docs
-    sectionid: docs
+    sectionid: resume
+    seo:
+      type: "WebPage"
+
+- scope:
+    path: _docs
+    type: docs
+  values:
+    layout: docs
+    sectionid: portfolio
     seo:
       type: "WebPage"
 
