@@ -2,6 +2,8 @@
 layout: post
 title:  "Hosting an Angular app on github project page in 6 steps"
 author: JoA-MoS
+category: Dev
+tags: [angular, github pages]
 ---
 
 1. Create a new Angular Application
