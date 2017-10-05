@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Hosting an Angular-CLI app on a github page in 7 steps"
+title:  "Hosting an Angular-CLI app on github in 7 steps"
 author: JoA-MoS
 category: Dev
 tags: [Angular, Angular-CLI, Github Pages]
 ---
-Are you looking for a place to host your Angular application but don't want to pay to host it. The following directions will help you host your application on a github project page which is completely free. This is by no means a production ready solution and is more meant for prototyping and example applications you may want to host. There are some big limitations to this sort of deployment see the cons section below.
+Are you looking for a place to host your Angular application but don't want to pay to host it. The following directions will help you host your application on a github project page which is completely free. This is by no means a production ready solution and is more meant for prototyping and example applications you may want to host. There are some limitations to this sort of deployment see the cons section below.
 
 1. Create a new Angular Application
 
