@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hosting an Angular-CLI app on github project page in 7 steps"
+title:  "Hosting an Angular-CLI app on a github page in 7 steps"
 author: JoA-MoS
 category: Dev
 tags: [Angular, Angular-CLI, Github Pages]
