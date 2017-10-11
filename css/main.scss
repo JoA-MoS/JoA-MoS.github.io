@@ -47,6 +47,12 @@ body {
   /* Yep, even the new clip-path has deprecated stuff. */
 }
 
+.image-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .header-container {
   background-color: black;
   background: url('../img/bg.jpg') no-repeat 50% 0;
