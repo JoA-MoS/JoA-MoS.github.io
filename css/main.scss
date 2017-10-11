@@ -41,6 +41,12 @@ body {
 }
 
 
+.clip-circle {
+  clip-path: circle(60px at center);
+  /* OLD VALUE example: circle(245px, 140px, 50px); */
+  /* Yep, even the new clip-path has deprecated stuff. */
+}
+
 .header-container {
   background-color: black;
   background: url('../img/bg.jpg') no-repeat 50% 0;
