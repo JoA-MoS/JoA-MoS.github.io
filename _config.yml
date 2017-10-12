@@ -5,7 +5,7 @@ description: >
   Jack of All Master of Some
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: https://joa-mos.github.io # the base hostname & protocol for your site
+url: http://justindietz.com # the base hostname & protocol for your site
 git_address: https://github.com/JoA-MoS/joa-mos.github.io
 git_edit_address: https://github.com/JoA-MoS/joa-mos.github.io/blob/gh-pages
 
