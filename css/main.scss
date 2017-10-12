@@ -47,10 +47,11 @@ body {
   /* Yep, even the new clip-path has deprecated stuff. */
 }
 
-.image-center{
+.flex-container{
   display: flex;
   justify-content: center;
   align-self: center;
+  flex-flow: wrap;
 }
 
 .header-container {
