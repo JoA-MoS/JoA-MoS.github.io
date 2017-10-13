@@ -1,12 +1,13 @@
 # Site settings
 title: JoAMoS
 email: justin.r.dietz@gmail.com
+linkedin_address: https://www.linkedin.com/in/justindietz
+git_address: https://github.com/JoA-MoS
 description: >
   Jack of All Master of Some
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: http://justindietz.com # the base hostname & protocol for your site
-git_address: https://github.com/JoA-MoS/joa-mos.github.io
 git_edit_address: https://github.com/JoA-MoS/joa-mos.github.io/blob/gh-pages
 
 # theme options from https://bootswatch.com/
