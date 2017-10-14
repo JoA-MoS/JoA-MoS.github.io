@@ -6,13 +6,13 @@ git_address: https://github.com/JoA-MoS
 description: >
   Jack of All Master of Some
 
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: http://justindietz.com # the base hostname & protocol for your site
 git_edit_address: https://github.com/JoA-MoS/joa-mos.github.io/blob/gh-pages
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
-bootwatch: slate
+bootwatch: flatly
 
 # Build settings
 markdown: kramdown
